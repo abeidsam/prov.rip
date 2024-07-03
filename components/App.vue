@@ -542,7 +542,7 @@ function updateCityIsEnabledSetting(newIsEnabled: boolean, cityId: string) {
           <td class="blurb-image"> <div v-html="svgGrave"></div> </td>
           <td>
             <div class="blurb-text">
-              A communal board for DIY events all around RVA; queer, radical, and STINKY!!!
+              A communal board for DIY events all around PROV; queer, radical, and STINKY!!!
             </div>
             <div class="blurb-sub">
               Stop scrolling insta to find the move!<br>
